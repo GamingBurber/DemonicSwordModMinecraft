@@ -1,0 +1,12 @@
+{
+  "item.demonic_sword.demonic_ingot": "Demonic Ingot",
+  "itemGroup.tabdemonic_sword_items": "Demonic Sword",
+  "block.demonic_sword.demonic_ingot_block": "Demonic Ingot Block",
+  "item.demonic_sword.demonic_blade": "Demonic Blade",
+  "item.demonic_sword.demonic_pole": "Demonic Pole",
+  "item.demonic_sword.demonic_sword": "Demonic Sword",
+  "advancements.from_the_depths.title": "From The Depths",
+  "block.demonic_sword.demonic_nether_ore": "Demonic Nether Ore",
+  "advancements.from_the_depths.descr": "You have created something unholy...",
+  "item.demonic_sword.reinforced_demonic_ingot": "Reinforced Demonic Ingot"
+}
